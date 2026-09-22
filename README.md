@@ -1,94 +1,118 @@
 <div align="center">
 
-# `KEERTHIVASAN.OS`
+<img src="./assets/profile-banner.png" alt="Keerthivasan R — Software Developer" width="100%">
 
-### `Software Developer • AI Builder • EEE Graduate`
+<br>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   USER      : KEERTHIVASAN                                  │
-│   ROLE      : SOFTWARE DEVELOPER                            │
-│   FOCUS     : AI • FLUTTER • PYTHON • AUTOMATION            │
-│   STATUS    : 🟢 BUILDING                                  │
-│                                                             │
-│   $ ./start_keertivasan.sh                                 │
-│   > Initializing developer profile...                       │
-│   > Loading projects...                                     │
-│   > AI systems online                                       │
-│   > Ready to build.                                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<img src="./assets/build-loop.gif" alt="Build Learn Improve Repeat" width="85%">
 
-## `$ about`
+### Software Developer · AI Explorer · EEE Graduate
 
-```text
-> EEE graduate exploring the software world.
+**Building useful things. Learning every day.**
 
-> Building mobile apps, AI-powered tools,
-> automation projects and web applications.
+[![GitHub](https://img.shields.io/badge/GitHub-whiteknight--spec-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/whiteknight-spec)
 
-> Currently focused on:
-> Flutter • Python • AI • Software Development
+</div>
 
-## `$ skills`
+---
 
-```text
-LANGUAGES
-├── Python
-├── JavaScript
-├── C / C++
-└── SQL
+## `01 / ABOUT`
 
-DEVELOPMENT
-├── Flutter
-├── HTML / CSS
-├── Flask
-└── Firebase
+I’m **Keerthivasan R**, an EEE graduate moving from electrical engineering into software development.
 
-TOOLS
-├── Git / GitHub
-├── VS Code
+I enjoy turning ideas into working applications — especially where **software, AI, automation and mobile development** meet.
 
-## `$ projects`
+> **From circuits to code. From ideas to useful products.**
 
-```text
-[01] VibeForge
-     └─ AI-powered personal transformation app
-     └─ Flutter • Firebase • Gemini AI
+---
 
-[02] ATS Resume Analyzer
-     └─ Resume skill-matching web application
-     └─ Python • Flask • HTML • CSS • JavaScript
+## `02 / WHAT I BUILD`
 
-[03] Python Practice
-     └─ Building strong programming fundamentals
-     └─ Python • Git • GitHub
+| Area | Focus |
+|---|---|
+| 🧠 AI | AI-assisted applications and intelligent workflows |
+| 📱 Mobile | Flutter applications |
+| 🐍 Python | Programming, automation and backend projects |
+| 🌐 Web | Web applications and developer tools |
+| ⚙️ Automation | Practical automation and productivity solutions |
 
-## `$ currently_building`
+---
 
-```text
-[+] Improving Python fundamentals
-[+] Building Flutter applications
-[+] Exploring AI-powered development
-[+] Learning React & modern web development
-[+] Building real-world projects with Git/GitHub
-└── AI Development Tools
+## `03 / SELECTED PROJECTS`
 
-## `$ learning`
+### ◉ VibeForge
+**Personal transformation tracker**
+
+Flutter-based mobile application exploring AI-assisted personal tracking and productivity.
+
+`Flutter` `Firebase` `Gemini AI`
+
+---
+
+### ◉ ATS Resume Analyzer
+**Resume skill-matching web application**
+
+A web application for analysing resumes and matching technical skills using a Python/Flask backend.
+
+`Python` `Flask` `HTML` `CSS` `JavaScript`
+
+---
+
+### ◉ Python Practice
+**Programming fundamentals → stronger software foundations**
+
+A growing collection of Python exercises covering core programming concepts.
+
+`Python` `Git` `GitHub`
+
+---
+
+## `04 / CURRENTLY LEARNING`
 
 ```text
-→ Advanced Python
-→ React
-→ AI Application Development
-→ Software Engineering
-→ Git & GitHub
+Python              █████████░  Advanced foundations
+React               ██████░░░░  Building fundamentals
+AI Development      ████████░░  Building applications
+Software Engineering███████░░░  Growing
+Git / GitHub         █████████░  Daily workflow
+```
 
-## `$ contact`
+---
 
-```text
-GitHub
-└── github.com/whiteknight-spec
+## `05 / TOOLBOX`
 
-Status
-└── Open to Software Development opportunities
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,react,html,css,js,git,github,vscode&perline=10" alt="Technology stack">
+</p>
+
+---
+
+## `06 / BUILD PHILOSOPHY`
+
+<div align="center">
+
+> **Build → Learn → Improve → Repeat**
+
+*Small projects. Real problems. Continuous progress.*
+
+</div>
+
+---
+
+## `07 / CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/whiteknight-spec">
+<img src="https://img.shields.io/badge/GitHub-whiteknight--spec-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<div align="center">
+
+**Thanks for visiting.**
+
+`KEEP BUILDING.`
+
+</div>
