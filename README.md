@@ -1,18 +1,24 @@
+<div align="center">
+
 # `KEERTHIVASAN.OS`
 
+### `Software Developer • AI Builder • EEE Graduate`
+
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  $ whoami                                            │
-│  Keerthivasan R                                      │
-│                                                      │
-│  $ role                                              │
-│  EEE Graduate → Software Developer                  │
-│                                                      │
-│  $ status                                            │
-│  🟢 ONLINE • LEARNING • BUILDING                    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   USER      : KEERTHIVASAN                                  │
+│   ROLE      : SOFTWARE DEVELOPER                            │
+│   FOCUS     : AI • FLUTTER • PYTHON • AUTOMATION            │
+│   STATUS    : 🟢 BUILDING                                  │
+│                                                             │
+│   $ ./start_keertivasan.sh                                 │
+│   > Initializing developer profile...                       │
+│   > Loading projects...                                     │
+│   > AI systems online                                       │
+│   > Ready to build.                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 ## `$ about`
 
