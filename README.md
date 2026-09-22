@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Keerthivasan R — Software Developer" width="100%">
+<img src="./profile-banner.png" alt="Keerthivasan R — Software Developer" width="100%">
 
 <br>
 
-<img src="./assets/build-loop.gif" alt="Build Learn Improve Repeat" width="85%">
+<img src="./build-loop.gif" alt="Build Learn Improve Repeat" width="85%">
 
 ### Software Developer · AI Explorer · EEE Graduate
 
