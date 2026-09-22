@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Keerthivasan R — Software Developer" width="100%">
+<img src="./Keerthivasan_onepiece_final_animated.gif" alt="Keerthivasan R — Software Developer" width="100%">
 
 <br>
 
