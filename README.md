@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./keertivasan_onepiece_final_animated.gif"
+<img src="./keertivasan_onepiece_final01.gif"
      alt="Keerthivasan R — Software Developer"
      width="100%">
 
 <br>
-
-# ⚓ KEERTHIVASAN R
 
 ### Software Developer · AI Explorer · EEE Graduate
 
@@ -14,37 +12,31 @@
 
 <br>
 
-`BUILD` · `LEARN` · `EXPLORE` · `IMPROVE` · `REPEAT`
+⚓ `BUILD` &nbsp;•&nbsp; 📖 `LEARN` &nbsp;•&nbsp; 🧭 `EXPLORE` &nbsp;•&nbsp; 📈 `IMPROVE` &nbsp;•&nbsp; 🔥 `REPEAT`
 
 </div>
 
 ---
 
-## 🏴‍☠️ ABOUT ME
+## ⚓ About Me
 
 I'm **Keerthivasan R**, an EEE graduate moving from electrical engineering into software development.
 
-I enjoy turning ideas into working applications — especially where **software, AI, automation and mobile development** meet.
+I enjoy building applications where **software, AI, automation and mobile development** meet.
 
 > **From circuits to code. From ideas to useful products.**
 
 ---
 
-## 🗺️ MY JOURNEY
+## 🗺️ My Journey
 
 ```text
-EEE FOUNDATION
-      │
-      ▼
-  LEARNING CODE
- Python · Web · Mobile
-      │
-      ▼
- BUILDING PROJECTS
- AI · Automation · Apps
-      │
-      ▼
- SOFTWARE DEVELOPMENT
-      │
-      ▼
-   MANY ISLANDS AHEAD...
+EEE Foundation
+      ↓
+Exploring Code
+      ↓
+Building Projects
+      ↓
+Software Development
+      ↓
+Many Islands Ahead...
