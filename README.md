@@ -59,7 +59,6 @@ A structured collection of my Python learning and programming practice.
 - VS Code
 - Git
 - GitHub
-- Canva
 - DaVinci Resolve
 
 ---
@@ -86,4 +85,4 @@ A structured collection of my Python learning and programming practice.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/whiteknight-spec
+- GitHub: [whiteknight-spec](https://github.com/whiteknight-spec)
