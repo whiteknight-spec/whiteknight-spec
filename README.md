@@ -38,7 +38,6 @@ Currently, I'm focused on improving my software development skills and building 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
 
 </div>
