@@ -1,84 +1,49 @@
 <div align="center">
+  
+  # 👋 Hi, I'm Keerthivasan R.
+  ### ⚡ EEE Graduate turned Software Developer | Building AI & Mobile Solutions
 
-# 👋 Hi, I'm Keerthivasan R.
-
-### ⚡ EEE Graduate → Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Flutter+Developer;AI-Assisted+Application+Builder;IoT+%7C+Automation+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-whiteknight--spec-181717?style=for-the-badge&logo=github)](https://github.com/whiteknight-spec)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Keerthivasan-R&style=flat-square&color=blueviolet" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-success?style=flat-square" alt="Status" />
+  </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+I'm an **Electrical & Electronics Engineering (EEE)** graduate with a deep passion for software engineering, AI-powered applications, automation, and full-stack development. I bridge the gap between core engineering logic and modern digital products.
 
-I'm an **Electrical & Electronics Engineering graduate** interested in software development, AI-powered applications, automation, and IoT.
-
-I enjoy turning ideas into working applications using **Python, Flutter, Firebase, and AI-assisted development tools**.
-
-Currently, I'm focused on improving my software development skills and building practical projects.
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-</div>
+* 💡 I love transforming complex ideas into seamless, functional applications.
+* 🛠️ Core Toolkit: **Python, Flutter, Firebase, Flask, and AI APIs**.
+* 🎯 Current Goal: Master advanced software architecture and build production-ready AI applications.
 
 ---
 
-## 🔥 Featured Projects
+### 💻 Tech Stack & Tools
 
-### 📱 VibeForge
-
-> Personal transformation and tracking application built with Flutter and AI integration.
-
-**Tech:** Flutter • Firebase • Gemini AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flutter,firebase,flask,git,github,vscode,sqlite,postman&theme=dark" />
+</p>
 
 ---
 
-### 📄 ATS Resume Analyzer
+### 🔥 Featured Projects
 
-> Web application for analyzing resumes against skills and job requirements.
-
-**Tech:** Python • Flask • HTML • CSS • JavaScript
-
----
-
-### 🐍 Python Practice
-
-> My structured Python learning journey with programming exercises and problem solving.
-
-**Topics:** Python Fundamentals • Data Structures • Problem Solving
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📱 VibeForge** | Personal transformation & habit tracking mobile app with intelligent AI integration. | `Flutter` `Firebase` `Gemini AI` |
+| **📄 ATS Resume Analyzer** | Smart web application for optimizing resumes against job descriptions & skills. | `Python` `Flask` `JavaScript` `HTML/CSS` |
+| **🐍 Python Hub** | Structured programming exercises, algorithms, and problem-solving playground. | `Python` `Data Structures` |
 
 ---
 
-## 📚 Currently Learning
+### 🗺️ Learning Roadmap
 
-```text
-Python
-   ↓
-Advanced Programming
-   ↓
-React
-   ↓
-AI Application Development
-   ↓
-Software Engineering
+```mermaid
+graph LR
+    A[Python Basics] --> B[Advanced Programming]
+    B --> C[React & Frontend]
+    C --> D[AI App Development]
+    D --> E[Software Engineering]
