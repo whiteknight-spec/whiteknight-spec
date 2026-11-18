@@ -22,7 +22,7 @@
 I'm an **Electrical & Electronics Engineering (EEE)** graduate with a strong passion for software development, AI-powered applications, automation, and full-stack architecture. I love building practical applications that solve real-world problems and bridging core logic with modern web and mobile ecosystems.
 
 * 💡 **Core Mindset:** Transforming complex concepts into clean, scalable code.
-* 🛠️ **Primary Stack:** Python and AI Integrations.
+* 🛠️ **Primary Stack:** Python, Flutter, Firebase, Flask, and AI Integrations.
 * 🎯 **Current Focus:** Advancing software engineering principles, building full-stack products, and exploring AI-driven tools.
 
 ---
@@ -30,7 +30,7 @@ I'm an **Electrical & Electronics Engineering (EEE)** graduate with a strong pas
 ### 💻 Tech Stack & Developer Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,flutter,git,github,vscode,sqlite,&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flutter,firebase,flask,git,github,vscode,sqlite,postman,docker&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
