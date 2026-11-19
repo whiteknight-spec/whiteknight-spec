@@ -20,15 +20,6 @@
     <img src="https://img.shields.io/badge/ORIGIN-EAST_BLUE_(B.E._EEE)-3B82F6?style=for-the-badge&logo=arduino&logoColor=white" alt="Origin" />
   </p>
 
-  <br>
-
-  <!-- 3D EMBOSSED ONE PIECE WANTED POSTER -->
-  <p align="center">
-    <a href="https://github.com/whiteknight-spec">
-      <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/wanted_poster_3d.svg" alt="Captain Keerthivasan R — 3D Embossed Wanted Poster" width="360" />
-    </a>
-  </p>
-
 </div>
 
 ---
