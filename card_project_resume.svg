@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 155" width="100%" height="100%">
+  <!-- Card Background -->
+  <rect x="1" y="1" width="408" height="153" rx="14" fill="#120d08" stroke="#F59E0B" stroke-opacity="0.35" stroke-width="1.4" />
+
+  <!-- Title -->
+  <text x="20" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15.5" font-weight="bold" fill="#FCD34D">📄 Resume Gravity Fortress</text>
+
+  <!-- Badge -->
+  <rect x="291.0" y="20" width="99.0" height="22" rx="5" fill="#172554" stroke="#2563eb" stroke-width="1" />
+  <text x="340.5" y="35" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" font-weight="bold" fill="#93c5fd">🚀 Deployed</text>
+
+  <!-- Description -->
+  <text x="20" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#CBD5E1">
+    <tspan x="20" dy="0">Smart ATS web app that parses, evaluates, and</tspan><tspan x="20" dy="18">optimizes resumes against job descriptions with NLP.</tspan>
+  </text>
+
+  <!-- Link Action -->
+  <text x="20" y="132" font-family="ui-monospace, monospace" font-size="12" font-weight="bold" fill="#F59E0B">Explore Fortress Repo ↗</text>
+</svg>

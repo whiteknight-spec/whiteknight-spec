@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 340" width="100%" height="100%">
+  <!-- Outer Card -->
+  <rect x="1" y="1" width="848" height="338" rx="16" fill="#120d08" stroke="#F59E0B" stroke-opacity="0.35" stroke-width="1.5" />
+
+  <!-- Title -->
+  <text x="425" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="bold" fill="#FBBF24" letter-spacing="2">🧭 NAVIGATING THE GRAND LINE (JOURNEY FLOW)</text>
+
+  <!-- Step 1: East Blue -->
+  <rect x="175" y="58" width="500" height="32" rx="6" fill="#000000" fill-opacity="0.6" stroke="#D97706" stroke-opacity="0.45" stroke-width="1.2" />
+  <text x="425" y="79" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#FCD34D">⚓ East Blue ➔ Circuits &amp; EEE Core Logic</text>
+
+  <!-- Down Arrow 1 -->
+  <text x="425" y="104" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="bold" fill="#F59E0B">▼</text>
+
+  <!-- Step 2: Reverse Mountain -->
+  <rect x="175" y="110" width="500" height="32" rx="6" fill="#000000" fill-opacity="0.6" stroke="#D97706" stroke-opacity="0.45" stroke-width="1.2" />
+  <text x="425" y="131" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#FCD34D">🌊 Reverse Mountain ➔ Python, Data Structures &amp; Algorithms</text>
+
+  <!-- Down Arrow 2 -->
+  <text x="425" y="156" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="bold" fill="#F59E0B">▼</text>
+
+  <!-- Step 3: Grand Line -->
+  <rect x="175" y="162" width="500" height="32" rx="6" fill="#000000" fill-opacity="0.6" stroke="#D97706" stroke-opacity="0.45" stroke-width="1.2" />
+  <text x="425" y="183" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#FCD34D">📱 Grand Line ➔ Full-Stack Engineering &amp; Flutter Apps</text>
+
+  <!-- Down Arrow 3 -->
+  <text x="425" y="208" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="bold" fill="#F59E0B">▼</text>
+
+  <!-- Step 4: New World -->
+  <rect x="175" y="214" width="500" height="32" rx="6" fill="#000000" fill-opacity="0.6" stroke="#D97706" stroke-opacity="0.45" stroke-width="1.2" />
+  <text x="425" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#FCD34D">🤖 New World ➔ Autonomous AI Agents &amp; LLM Systems</text>
+
+  <!-- Down Arrow 4 -->
+  <text x="425" y="260" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="bold" fill="#F59E0B">▼</text>
+
+  <!-- Step 5: Laugh Tale (Highlighted) -->
+  <rect x="175" y="266" width="500" height="36" rx="6" fill="#F59E0B" fill-opacity="0.22" stroke="#FBBF24" stroke-width="1.5" />
+  <text x="425" y="289" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="bold" fill="#FEF08A">👑 Laugh Tale ➔ Scalable High-Performance Systems 🚀</text>
+</svg>

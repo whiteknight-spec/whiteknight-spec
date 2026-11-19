@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- Animated Pirate Typing Log -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Captain+of+the+Code-Code+Fleet+⚓;Sailing+from+Circuits+(EEE)+to+AI+Architecture+⚡;Forging+Apps+Across+the+Grand+Line+🌊;Seeking+the+Legendary+One+Piece+of+Engineering+👑" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Captain+of+the+Code-Code+Fleet+⚓;Sailing+from+Circuits+(EEE)+to+AI+Architecture+⚡;Forging+Apps+Across+the+Grand+Line+🌊;Seeking+the+Legendary+One+Piece+of+Engineering+👑" alt="Typing SVG" />
 
   <br><br>
 
@@ -30,16 +30,12 @@
 
 <br>
 
-### ⚓ The Captain's Logbook
+<!-- 2. ABOUT ME CARD -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_about.svg" alt="The Captain's Logbook" width="100%" />
+</div>
 
-I'm **Keerthivasan R**, an **Electrical & Electronics Engineering (EEE)** graduate who set sail from the hardware circuits realm into the expansive seas of **Software Development & AI Architecture**.
-
-> *"Inherited will, the flow of time, and the dreams of its people—these are things that cannot be stopped. As long as developers continue to seek the essence of code, their voyage will never end!"*
-
-- 🌊 **The Grand Voyage:** Building cross-platform mobile apps with Flutter, engineering scalable Python backends, and crafting intelligent AI automation workflows.
-- 🍈 **Devil Fruit:** *Code-Code Fruit (Model: AI Engineering)* — Turns abstract logic and hardware concepts into high-impact software systems.
-- 🧭 **Log Pose Focus:** Autonomous AI Agents, Large Language Models (LLM), and resilient full-stack architectures.
-- 🤝 **Crew Alliances:** Open to joining forward-thinking software engineering crews, product teams, and high-impact AI ventures.
+<br>
 
 ---
 
@@ -49,18 +45,12 @@ I'm **Keerthivasan R**, an **Electrical & Electronics Engineering (EEE)** gradua
 
 <br>
 
-### 🧭 Navigating the Grand Line
+<!-- 3. JOURNEY VERTICAL FLOW -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_journey.svg" alt="Navigating the Grand Line" width="100%" />
+</div>
 
-```mermaid
-flowchart TD
-    A["⚓ East Blue ➔ Circuits & EEE Core Logic"]
-    B["🌊 Reverse Mountain ➔ Python, Data Structures & Algorithms"]
-    C["📱 Grand Line ➔ Full-Stack Engineering & Flutter Apps"]
-    D["🤖 New World ➔ Autonomous AI Agents & LLM Systems"]
-    E["👑 Laugh Tale ➔ Scalable High-Performance Systems 🚀"]
-
-    A --> B --> C --> D --> E
-```
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/build-loop.gif" alt="Build Loop" width="100%" />
@@ -74,16 +64,31 @@ flowchart TD
 
 <br>
 
-### 🏝️ Island Expeditions (Flagship Repositories)
+<!-- 4. ISLAND EXPEDITIONS (2x2 Grid) -->
+<div align="center">
+  <a href="https://github.com/whiteknight-spec/vibeforge" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_vibeforge.svg" width="49%" alt="VibeForge Island" />
+  </a>
+  <a href="https://github.com/whiteknight-spec/ai-resume-gravity" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_resume.svg" width="49%" alt="Resume Gravity Fortress" />
+  </a>
+  <br>
+  <a href="https://github.com/whiteknight-spec/ai-attendance-system" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_attendance.svg" width="49%" alt="Vision Attendance Post" />
+  </a>
+  <a href="https://github.com/whiteknight-spec/english-ai-coach" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_english.svg" width="49%" alt="English AI Companion" />
+  </a>
+  <br>
+  <a href="https://github.com/whiteknight-spec/flowbox-automation" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_flowbox.svg" width="49%" alt="Flowbox Automation" />
+  </a>
+  <a href="https://github.com/whiteknight-spec/python-questions" target="_blank">
+    <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/card_project_pythonkata.svg" width="49%" alt="Python Kata Dojo" />
+  </a>
+</div>
 
-| Island / Mission | Status | Architecture & Tech Stack | Logbook Link |
-| :--- | :---: | :--- | :---: |
-| **📱 VibeForge Island** | `🟢 Active` | Personal transformation & habit-tracking mobile ecosystem powered by intelligent AI feedback loops.<br>`Flutter` • `Firebase` • `Gemini AI` | [Explore Island ↗](https://github.com/whiteknight-spec/vibeforge) |
-| **📄 Resume Gravity Fortress** | `🚀 Deployed` | Smart ATS web application that parses, evaluates, and optimizes resumes against job descriptions with NLP.<br>`Python` • `Flask` • `NLP` • `JavaScript` | [Infiltrate Fortress ↗](https://github.com/whiteknight-spec/ai-resume-gravity) |
-| **🤖 Vision Attendance Post** | `⚡ Stable` | Automated facial-recognition and computer-vision powered attendance recording system.<br>`Python` • `OpenCV` • `Machine Learning` | [Inspect Outpost ↗](https://github.com/whiteknight-spec/ai-attendance-system) |
-| **🗣️ English AI Companion** | `🧠 Interactive` | Conversational AI mentor for interactive English fluency evaluation and real-time guidance.<br>`Python` • `AI / LLM` • `Flask` | [Converse ↗](https://github.com/whiteknight-spec/english-ai-coach) |
-| **⚙️ Flowbox Automation** | `🔄 Pipeline` | Workflow automation pipeline streamlining repetitive data processing and webhook events.<br>`Python` • `APIs` • `Automation` | [Engage Pipeline ↗](https://github.com/whiteknight-spec/flowbox-automation) |
-| **🐍 Python Kata Dojo** | `🥋 Algorithms` | Algorithmic training ground mastering data structures, algorithms, and computational problem-solving.<br>`Python` • `Algorithms` • `DSA` | [Enter Dojo ↗](https://github.com/whiteknight-spec/python-questions) |
+<br>
 
 ---
 
@@ -93,13 +98,14 @@ flowchart TD
 
 <br>
 
+<!-- 5. PIRATE WEAPONS & TECH ARSENAL -->
 <div align="center">
-
-### ⚔️ Pirate Weapons & Tech Arsenal
-
-<p align="center">
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/header_skills.svg" alt="Pirate Weapons & Tech Arsenal" width="100%" />
+  <br><br>
   <img src="https://skillicons.dev/icons?i=py,js,dart,flutter,firebase,supabase,flask,fastapi,mongodb,sqlite,postgres,docker,git,github,vscode,postman&theme=dark" alt="Skill Icons" />
-</p>
+</div>
+
+<br>
 
 | Domain | Weapons & Technologies |
 | :--- | :--- |
@@ -109,13 +115,12 @@ flowchart TD
 | **💎 Databases & Cloud** | `Firebase` • `Supabase` • `MongoDB` • `PostgreSQL` • `SQLite` |
 | **🧭 DevOps & Workflow** | `Git` • `GitHub` • `Docker` • `VS Code` • `Postman` |
 
-</div>
-
 ---
 
-### 📊 Logbook Telemetry & Bounty Analytics
-
+<!-- 6. ANALYTICS & STATS -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/header_stats.svg" alt="Logbook Telemetry & Bounty Stats" width="100%" />
+  <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=whiteknight-spec&show_icons=true&bg_color=0D1117&title_color=F59E0B&text_color=E2E8F0&icon_color=F59E0B&hide_border=true" alt="GitHub Stats" height="175" />
   &nbsp;
@@ -124,8 +129,9 @@ flowchart TD
   <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whiteknight-spec&theme=dark&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&hide_border=true" alt="GitHub Streak" />
-
 </div>
+
+<br>
 
 ---
 
@@ -135,9 +141,10 @@ flowchart TD
 
 <br>
 
-### 🐌 Send a Transponder Snail (Den Den Mushi)
-
+<!-- 7. TRANSPONDER SNAIL & CONTACT -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/header_contact.svg" alt="Send a Transponder Snail" width="100%" />
+  <br><br>
 
   <p>Got a bold project, an open engineering role, or an alliance in mind? Send word to the flagship!</p>
 
@@ -159,6 +166,5 @@ flowchart TD
 
   <br><br>
 
-  <sub>"People's dreams... have no end!" — Marshall D. Teach • Crafted with ⚓ by Keerthivasan R.</sub>
-
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/footer_quote.svg" alt="Marshall D Teach Quote" width="100%" />
 </div>
