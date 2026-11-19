@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 01 HERO SECTION GIF -->
-  <img src="./01_hero.gif" alt="Keerthivasan R — Software Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/01_hero.gif" alt="Keerthivasan R — Software Developer" width="100%" />
 
   <br><br>
 
@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="./02_about.gif" alt="About Me" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/02_about.gif" alt="About Me" width="100%" />
 </div>
 
 <br>
@@ -44,7 +44,7 @@ I'm **Keerthivasan R**, an **Electrical & Electronics Engineering (EEE)** gradua
 ---
 
 <div align="center">
-  <img src="./03_journey.gif" alt="My Journey" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/03_journey.gif" alt="My Journey" width="100%" />
 </div>
 
 <br>
@@ -63,13 +63,13 @@ flowchart TD
 ```
 
 <div align="center">
-  <img src="./build-loop.gif" alt="Build Loop" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/build-loop.gif" alt="Build Loop" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./04_projects.gif" alt="Featured Projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/04_projects.gif" alt="Featured Projects" width="100%" />
 </div>
 
 <br>
@@ -88,7 +88,7 @@ flowchart TD
 ---
 
 <div align="center">
-  <img src="./05_skills.gif" alt="Tech Stack and Skills" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/05_skills.gif" alt="Tech Stack and Skills" width="100%" />
 </div>
 
 <br>
@@ -105,7 +105,7 @@ flowchart TD
 | :--- | :--- |
 | **🗡️ Core Languages** | `Python` • `JavaScript` • `Dart` • `HTML5/CSS3` • `SQL` |
 | **🛡️ Frontend & Mobile** | `Flutter` • `Dart` • `React (Basics)` • `Responsive UI` |
-| **⚙️ Backend & APIs** | `Flask` • `FastAPI` • `Node.js` • `RESTful APIs` |
+| **⚙️ Engine Room (Backend & APIs)** | `Flask` • `FastAPI` • `Node.js` • `RESTful APIs` |
 | **💎 Databases & Cloud** | `Firebase` • `Supabase` • `MongoDB` • `PostgreSQL` • `SQLite` |
 | **🧭 DevOps & Workflow** | `Git` • `GitHub` • `Docker` • `VS Code` • `Postman` |
 
@@ -130,7 +130,7 @@ flowchart TD
 ---
 
 <div align="center">
-  <img src="./06_footer.gif" alt="To Be Continued" width="100%" />
+  <img src="https://raw.githubusercontent.com/whiteknight-spec/whiteknight-spec/main/06_footer.gif" alt="To Be Continued" width="100%" />
 </div>
 
 <br>
