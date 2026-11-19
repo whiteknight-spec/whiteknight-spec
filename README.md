@@ -1,74 +1,161 @@
 <div align="center">
 
-  <!-- Cyberpunk Cinematic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,25,35&height=200&section=header&text=KEERTHIVASAN%20R.&fontSize=40&fontColor=38BDF8&fontAlign=50&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20|%20AI%20%26%20FULL-STACK%20DEVELOPER&descSize=15&descColor=A78BFA&animation=fadeIn&rotate=0" width="100%" alt="Cyberpunk Banner" />
-
-  <br>
-
-  <!-- Interactive Typing Sub-Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=EEE+Graduate+→+Software+Engineer+⚡;Building+Autonomous+AI+&+Full-Stack+Apps+🤖;Turning+Complex+Logic+into+Code+💡" alt="Typing SVG" />
+  <!-- 01 HERO SECTION GIF -->
+  <img src="./01_hero.gif" alt="Keerthivasan R — Software Developer" width="100%" />
 
   <br><br>
 
-  <!-- Elite Status Badges -->
+  <!-- Animated Pirate Typing Log -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Captain+of+the+Code-Code+Fleet+⚓;Sailing+from+Circuits+(EEE)+to+AI+Architecture+⚡;Forging+Apps+Across+the+Grand+Line+🌊;Seeking+the+Legendary+One+Piece+of+Engineering+👑" alt="Typing SVG" />
+
+  <br><br>
+
+  <!-- Bounty & Status Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Keerthivasan-R&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/FOCUS-AI_%7C_FULLSTACK-3B82F6?style=for-the-badge&logo=python&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/DEGREE-B.E._EEE-F59E0B?style=for-the-badge&logo=arduino&logoColor=white" alt="Degree" />
+    <a href="https://github.com/whiteknight-spec">
+      <img src="https://komarev.com/ghpvc/?username=whiteknight-spec&style=for-the-badge&color=D97706&label=LOGBOOK+VIEWS" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/BOUNTY-100%2C000%2C000_EXP-FFB703?style=for-the-badge&logo=target&logoColor=black" alt="Bounty" />
+    <img src="https://img.shields.io/badge/STATUS-SEEKING_NEW_CREW-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/ORIGIN-EAST_BLUE_(B.E._EEE)-3B82F6?style=for-the-badge&logo=arduino&logoColor=white" alt="Origin" />
   </p>
 
 </div>
 
 ---
 
-### 🌐 About Me
+<div align="center">
+  <img src="./02_about.gif" alt="About Me" width="100%" />
+</div>
 
-I'm an **Electrical & Electronics Engineering (EEE) Graduate** who transitioned into software engineering and AI architecture. I specialize in building practical, high-performance web applications, mobile apps, and AI-powered automation pipelines. 
+<br>
 
-> *"Engineering isn't just about making things work—it's about building systems that scale, endure, and look incredible."*
+### ⚓ The Captain's Logbook
 
-* 🚀 **Core Expertise:** Python, Flask, FastAPI, Flutter, Firebase, and AI Integrations.
-* 🛠️ **Engineering Mindset:** Bridging low-level system understanding with clean, modular software design.
-* 🎯 **Mission:** Crafting intelligent tools that simplify workflows and solve real-world bottlenecks.
+I'm **Keerthivasan R**, an **Electrical & Electronics Engineering (EEE)** graduate who set sail from the hardware islands into the vast oceans of **Software Development & AI Architecture**.
+
+> *"Inherited will, the flow of time, and the dreams of its people—these are things that cannot be stopped. As long as developers continue to seek the essence of code, their voyage will never end!"*
+
+- 🌊 **The Grand Voyage:** Building cross-platform mobile apps with Flutter, crafting high-performance Python backends, and orchestrating intelligent AI workflows.
+- 🍈 **Devil Fruit:** *Code-Code Fruit (Model: AI Engineering)* — Empowers the user to turn abstract logic into production-grade systems.
+- 🧭 **Log Pose Direction:** Exploring Autonomous AI Agents, Large Language Models (LLM), and scalable cloud infrastructure.
+- 🤝 **Crew Alliances:** Open to join innovative engineering crews, full-stack collaborations, and groundbreaking AI adventures.
 
 ---
 
-### 💻 Technical Arsenal
+<div align="center">
+  <img src="./03_journey.gif" alt="My Journey" width="100%" />
+</div>
+
+<br>
+
+### 🧭 Navigating the Grand Line
+
+```mermaid
+graph LR
+    A[⚓ East Blue: Circuits & EEE Core] --> B[🌊 Reverse Mountain: Python & Logic]
+    B --> C[📱 Grand Line: Full-Stack & Flutter Apps]
+    C --> D[🤖 New World: AI Agents & LLMs]
+    D --> E[👑 Laugh Tale: Legendary System Architect]
+```
+
+<div align="center">
+  <img src="./build-loop.gif" alt="Build Loop" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./04_projects.gif" alt="Featured Projects" width="100%" />
+</div>
+
+<br>
+
+### 🏝️ Island Expeditions (Flagship Repositories)
+
+| Island / Mission | Expedition Details & Architecture | Tech Arsenal | Logbook Link |
+| :--- | :--- | :--- | :---: |
+| **📱 VibeForge Island** | Personal transformation & habit-tracking mobile ecosystem powered by intelligent AI feedback loops. | `Flutter` `Firebase` `Gemini AI` | [Explore Island ↗](https://github.com/whiteknight-spec/vibeforge) |
+| **📄 Resume Gravity Fortress** | Smart ATS web application that parses, evaluates, and optimizes resumes against job descriptions with NLP. | `Python` `Flask` `NLP` `JavaScript` | [Infiltrate Fortress ↗](https://github.com/whiteknight-spec/ai-resume-gravity) |
+| **🤖 Vision Attendance Post** | Automated facial-recognition and computer-vision powered attendance recording system. | `Python` `OpenCV` `Machine Learning` | [Inspect Outpost ↗](https://github.com/whiteknight-spec/ai-attendance-system) |
+| **🗣️ English AI Companion** | Conversational AI coach for interactive English fluency training and real-time guidance. | `Python` `AI / LLM` `Flask` | [Converse ↗](https://github.com/whiteknight-spec/english-ai-coach) |
+| **⚙️ Flowbox Automation** | Workflow automation pipeline streamlining repetitive data processing and webhook events. | `Python` `APIs` `Automation` | [Engage Pipeline ↗](https://github.com/whiteknight-spec/flowbox-automation) |
+| **🐍 Python Kata Dojo** | Algorithmic training ground conquering data structures and computational puzzles. | `Python` `Algorithms` `DSA` | [Enter Dojo ↗](https://github.com/whiteknight-spec/python-questions) |
+
+---
+
+<div align="center">
+  <img src="./05_skills.gif" alt="Tech Stack and Skills" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Skill Domain | Pirate Weapons & Tools |
 | :--- | :--- |
-| **Languages & Core** | `Python` `JavaScript` `HTML5` `CSS3` |
-| **Mobile & Frontend** | `Flutter` `Dart` `React (Learning)` |
-| **Backend & APIs** | `Flask` `FastAPI` `Node.js` `REST APIs` |
-| **Databases & Cloud** | `Firebase` `Supabase` `SQLite` `PostgreSQL` |
-| **DevOps & Workflow** | `Git` `GitHub` `Docker` `VS Code` `Postman` |
+| **🗡️ Core Blades (Languages)** | `Python` `JavaScript` `Dart` `HTML5` `CSS3` `SQL` |
+| **🛡️ Armor & Ships (Frontend & Mobile)** | `Flutter` `React (Basics)` `Responsive UI` |
+| **⚙️ Engine Room (Backend & APIs)** | `Flask` `FastAPI` `Node.js` `RESTful APIs` |
+| **💎 Cargo & Treasure (Databases & Cloud)** | `Firebase` `Supabase` `MongoDB` `PostgreSQL` `SQLite` |
+| **🧭 Navigational Gear (DevOps & Tools)** | `Git` `GitHub` `Docker` `VS Code` `Postman` |
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,dart,flutter,firebase,supabase,flask,fastapi,mongodb,sqlite,postgres,docker,git,github,vscode,postman&theme=dark" alt="Skill Icons" />
+</p>
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,flutter,firebase,flask,fastapi,git,github,docker,vscode,sqlite,postman&theme=dark" alt="Skill Icons" />
-</p>
+---
+
+### 📊 Logbook Telemetry & Bounty Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=whiteknight-spec&show_icons=true&theme=solarized-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteknight-spec&layout=compact&theme=solarized-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whiteknight-spec&theme=solarized-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-### 🔥 Flagship Projects
+<div align="center">
+  <img src="./06_footer.gif" alt="To Be Continued" width="100%" />
+</div>
 
-| Project | Description & Architecture | Tech Stack |
-| :--- | :--- | :--- |
-| **📱 VibeForge** | Personal transformation & habit-tracking mobile ecosystem powered by intelligent AI feedback loops. | `Flutter` `Firebase` `Gemini AI` |
-| **📄 ATS Resume Analyzer** | Smart web application that parses, scores, and optimizes resumes against job descriptions using advanced regex & NLP. | `Python` `Flask` `JavaScript` `HTML/CSS` |
-| **🐍 Python Hub** | High-performance programming practice repository featuring structured algorithms and data structures. | `Python` `Data Structures` |
+<br>
 
----
+### 🐌 Send a Transponder Snail (Den Den Mushi)
 
-### 🗺️ Engineering & Learning Roadmap
+<div align="center">
 
-```mermaid
-graph TD;
-    A[B.E. EEE Core Logic] --> B[Python & Data Structures]
-    B --> C[Full-Stack & Mobile Dev (Flutter/Flask)]
-    C --> D[AI Integration & Automation Agents]
-    D --> E[Advanced Software Architecture 🚀]
+  <p>Got a bold project, an open engineering role, or an alliance in mind? Send word to the flagship!</p>
+
+  <a href="mailto:keertivasan6383007833@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/whiteknight-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/whiteknight-spec/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <br><br>
+
+  <sub>"People's dreams... have no end!" — Marshall D. Teach • Crafted with ⚓ by Keerthivasan R.</sub>
+
+</div>
