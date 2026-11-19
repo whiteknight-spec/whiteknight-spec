@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- Animated Pirate Typing Log -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Captain+of+the+Code-Code+Fleet+⚓;Sailing+from+Circuits+(EEE)+to+AI+Architecture+⚡;Forging+Apps+Across+the+Grand+Line+🌊;Seeking+the+Legendary+One+Piece+of+Engineering+👑" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=%E2%9A%93%20Keerthivasan%20R%20%E2%80%94%20Captain%20of%20the%20Code-Code%20Fleet%20%E2%9A%93%3B%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Captain%20Keerthivasan%20R%20%E2%80%A2%20Code-Code%20Fleet%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%3B%E2%9A%A1%20Sailing%20from%20Circuits%20%28EEE%29%20to%20AI%20Architecture%20%E2%9A%A1%3B%F0%9F%8C%8A%20Forging%20Full-Stack%20Apps%20Across%20the%20Grand%20Line%20%F0%9F%8C%8A%3B%F0%9F%91%91%20Seeking%20the%20Legendary%20One%20Piece%20of%20Engineering%20%F0%9F%91%91" alt="Captain Keerthivasan R — Animated Log" />
 
   <br><br>
 
