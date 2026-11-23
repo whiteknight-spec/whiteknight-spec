@@ -148,7 +148,7 @@
 
   <p>Got a bold project, an open engineering role, or an alliance in mind? Send word to the flagship!</p>
 
-  <a href="mailto:keertivasan6383007833@gmail.com">
+  <a href="mailto:keerthivasan6383007833@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -156,11 +156,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/keerthivasan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/whiteknight-spec/portfolio">
+  <a href="https://archival-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 
